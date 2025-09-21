@@ -1,15 +1,13 @@
-# Your Amazing Product
+# Example Domain
 
-This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...
+This domain is for use in illustrative examples in documents. You may use this
+    domain in literature without prior coordination or asking for permission.
 
 ## 🚀 Features
 
-- **Project Goal**: Learn more about project goal and how it can benefit you.
-- **How it was built**: The scraper is deployed on Apify,check it out here!
-- **Technologies used**: Learn more about technologies used and how it can benefit you.
-- **Project Goal**: Learn more about project goal and how it can benefit you.
-- **How it was built**: The scraper is deployed on Apify,check it out here!
-- **Technologies used**: Learn more about technologies used and how it can benefit you.
+- **Feature 1**: Amazing functionality that will help you succeed.
+- **Feature 2**: Amazing functionality that will help you succeed.
+- **Feature 3**: Amazing functionality that will help you succeed.
 
 ## 🎨 Theme
 
