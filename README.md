@@ -1,15 +1,10 @@
-# AI
+# Your Amazing Product
 
-This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...
+Please try again
 
 ## 🚀 Features
 
-- **Project Goal**: Learn more about project goal and how it can benefit you.
-- **How it was built**: The scraper is deployed on Apify,check it out here!
-- **Technologies used**: Learn more about technologies used and how it can benefit you.
-- **Project Goal**: Learn more about project goal and how it can benefit you.
-- **How it was built**: The scraper is deployed on Apify,check it out here!
-- **Technologies used**: Learn more about technologies used and how it can benefit you.
+
 
 ## 🎨 Theme
 
