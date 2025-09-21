@@ -1,12 +1,15 @@
-# AI-Powered Web Data Extraction – A scraper for anyone
+# Your Amazing Product
 
-None
+This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...
 
 ## 🚀 Features
 
-- **Feature 1**: Amazing functionality that delivers results
-- **Feature 2**: Powerful tools to help you succeed
-- **Feature 3**: Expert support when you need it most
+- **Project Goal**: Learn more about project goal and how it can benefit you.
+- **How it was built**: The scraper is deployed on Apify,check it out here!
+- **Technologies used**: Learn more about technologies used and how it can benefit you.
+- **Project Goal**: Learn more about project goal and how it can benefit you.
+- **How it was built**: The scraper is deployed on Apify,check it out here!
+- **Technologies used**: Learn more about technologies used and how it can benefit you.
 
 ## 🎨 Theme
 
