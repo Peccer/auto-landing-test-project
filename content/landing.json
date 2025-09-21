@@ -1,36 +1,51 @@
 {
   "eyebrow": "Discover the power of",
-  "title": "Example Domain",
-  "subtitle": "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+  "title": "AI",
+  "subtitle": "This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...",
   "primaryCta": {
     "label": "Get Started",
-    "href": "https://example.com/"
+    "href": "https://taskmastergpt.nl/generative-ai-project/ai-powered-web-data-extraction-a-scraper-for-anyone/"
   },
   "secondaryCta": {
     "label": "Learn More",
-    "href": "https://example.com/"
+    "href": "https://taskmastergpt.nl/generative-ai-project/ai-powered-web-data-extraction-a-scraper-for-anyone/"
   },
   "badges": [
     "Modern",
     "Reliable",
     "Scalable"
   ],
-  "heroImage": null,
+  "heroImage": "https://taskmastergpt.nl/wp-content/uploads/2025/02/AI-Powered-Web-Data-Extraction.png",
   "logos": [],
   "features": [
     {
-      "title": "Feature 1",
-      "description": "Amazing functionality that will help you succeed.",
+      "title": "Project Goal",
+      "description": "Learn more about project goal and how it can benefit you.",
       "icon": "star"
     },
     {
-      "title": "Feature 2",
-      "description": "Amazing functionality that will help you succeed.",
+      "title": "How it was built",
+      "description": "The scraper is deployed on Apify,check it out here!",
       "icon": "star"
     },
     {
-      "title": "Feature 3",
-      "description": "Amazing functionality that will help you succeed.",
+      "title": "Technologies used",
+      "description": "Learn more about technologies used and how it can benefit you.",
+      "icon": "star"
+    },
+    {
+      "title": "Project Goal",
+      "description": "Learn more about project goal and how it can benefit you.",
+      "icon": "star"
+    },
+    {
+      "title": "How it was built",
+      "description": "The scraper is deployed on Apify,check it out here!",
+      "icon": "star"
+    },
+    {
+      "title": "Technologies used",
+      "description": "Learn more about technologies used and how it can benefit you.",
       "icon": "star"
     }
   ],
@@ -39,18 +54,25 @@
     "subtitle": "Join thousands of satisfied customers today.",
     "button": {
       "label": "Get Started",
-      "href": "https://example.com/"
+      "href": "https://taskmastergpt.nl/generative-ai-project/ai-powered-web-data-extraction-a-scraper-for-anyone/"
     }
   },
   "theme": "dark-glossy",
   "metadata": {
-    "title": "Example Domain - Landing Page",
-    "description": "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+    "title": "AI - Landing Page",
+    "description": "This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...",
     "keywords": [
-      "domain",
-      "example"
+      "project",
+      "scraper",
+      "technologies",
+      "built",
+      "used",
+      "data",
+      "anyone",
+      "extraction",
+      "goal"
     ],
-    "ogImage": null,
+    "ogImage": "https://taskmastergpt.nl/wp-content/uploads/2025/02/AI-Powered-Web-Data-Extraction.png",
     "twitterCard": "summary_large_image"
   }
 }
