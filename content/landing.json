@@ -1,0 +1,54 @@
+{
+  "eyebrow": "Discover the power of",
+  "title": "Landing Page",
+  "subtitle": "Generated from https://apify.com/eloquent_mountain/ai-web-scraper-extract-data-with-ease",
+  "primaryCta": {
+    "label": "Get Started",
+    "href": "https://apify.com/eloquent_mountain/ai-web-scraper-extract-data-with-ease"
+  },
+  "secondaryCta": {
+    "label": "Learn More",
+    "href": "https://apify.com/eloquent_mountain/ai-web-scraper-extract-data-with-ease"
+  },
+  "badges": [
+    "API Ready"
+  ],
+  "heroImage": null,
+  "logos": [],
+  "features": [
+    {
+      "title": "Feature 1",
+      "description": "Amazing functionality that will help you succeed.",
+      "icon": "star"
+    },
+    {
+      "title": "Feature 2",
+      "description": "Amazing functionality that will help you succeed.",
+      "icon": "star"
+    },
+    {
+      "title": "Feature 3",
+      "description": "Amazing functionality that will help you succeed.",
+      "icon": "star"
+    }
+  ],
+  "cta": {
+    "title": "Ready to get started?",
+    "subtitle": "Join thousands of satisfied customers today.",
+    "button": {
+      "label": "Get Started",
+      "href": "https://apify.com/eloquent_mountain/ai-web-scraper-extract-data-with-ease"
+    }
+  },
+  "theme": "dark-glossy",
+  "metadata": {
+    "title": "Landing Page - Landing Page",
+    "description": "Generated from https://apify.com/eloquent_mountain/ai-web-scraper-extract-data-with-ease",
+    "keywords": [
+      "landing",
+      "page"
+    ],
+    "ogImage": null,
+    "twitterCard": "summary_large_image"
+  }
+}
