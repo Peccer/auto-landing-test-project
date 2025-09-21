@@ -1,77 +1,56 @@
 {
   "eyebrow": "Discover the power of",
-  "title": "Your Amazing Product",
-  "subtitle": "This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...",
+  "title": "Example Domain",
+  "subtitle": "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
   "primaryCta": {
     "label": "Get Started",
-    "href": "#"
+    "href": "https://example.com/"
   },
   "secondaryCta": {
     "label": "Learn More",
-    "href": "#"
+    "href": "https://example.com/"
   },
+  "badges": [
+    "Modern",
+    "Reliable",
+    "Scalable"
+  ],
+  "heroImage": null,
+  "logos": [],
   "features": [
     {
-      "title": "Project Goal",
-      "description": "Learn more about project goal and how it can benefit you.",
+      "title": "Feature 1",
+      "description": "Amazing functionality that will help you succeed.",
       "icon": "star"
     },
     {
-      "title": "How it was built",
-      "description": "The scraper is deployed on Apify,check it out here!",
+      "title": "Feature 2",
+      "description": "Amazing functionality that will help you succeed.",
       "icon": "star"
     },
     {
-      "title": "Technologies used",
-      "description": "Learn more about technologies used and how it can benefit you.",
-      "icon": "star"
-    },
-    {
-      "title": "Project Goal",
-      "description": "Learn more about project goal and how it can benefit you.",
-      "icon": "star"
-    },
-    {
-      "title": "How it was built",
-      "description": "The scraper is deployed on Apify,check it out here!",
-      "icon": "star"
-    },
-    {
-      "title": "Technologies used",
-      "description": "Learn more about technologies used and how it can benefit you.",
+      "title": "Feature 3",
+      "description": "Amazing functionality that will help you succeed.",
       "icon": "star"
     }
   ],
-  "theme": "dark-glossy",
-  "socialProof": {},
-  "faqs": [],
-  "about": "",
-  "contact": {},
-  "seo": {
-    "seo_title": "AI",
-    "meta_description": "This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and...",
-    "keywords": [
-      "professional",
-      "services",
-      "solutions"
-    ],
-    "og_title": "AI",
-    "og_description": "This AI-powered web scraper uses natural language and vision to extract data from websites. It adapts to different page layouts, handles dynamic content, and..."
-  },
-  "design": {
-    "color_palette": {
-      "primary": "#2563eb",
-      "secondary": "#64748b",
-      "accent": "#0ea5e9",
-      "neutral": "#f8fafc"
-    },
-    "visual_mood": {
-      "overall_feeling": "professional"
+  "cta": {
+    "title": "Ready to get started?",
+    "subtitle": "Join thousands of satisfied customers today.",
+    "button": {
+      "label": "Get Started",
+      "href": "https://example.com/"
     }
   },
-  "customImages": {},
-  "businessAnalysis": {
-    "business_type": "general"
-  },
-  "aiEnhanced": true
+  "theme": "dark-glossy",
+  "metadata": {
+    "title": "Example Domain - Landing Page",
+    "description": "This domain is for use in illustrative examples in documents. You may use this\n    domain in literature without prior coordination or asking for permission.",
+    "keywords": [
+      "example",
+      "domain"
+    ],
+    "ogImage": null,
+    "twitterCard": "summary_large_image"
+  }
 }
