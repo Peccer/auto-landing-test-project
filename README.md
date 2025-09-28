@@ -1,12 +1,15 @@
-# AI-Powered Web Data Extraction – A scraper for anyone
+# Stop Copy-Pasting Data. Start Getting Clean Datasets in Minutes.
 
-Discover the solution you've been looking for
+AI-powered web scraping and data extraction without CSS selectors or scripts. Just say what you want—“product name,” “price,” “rating”—and our LLM figures out the rest across any layout. Perfect for teams that need fast, reliable data without the engineering overhead.
 
 ## 🚀 Features
 
-- **Feature 1**: Amazing functionality that delivers results
-- **Feature 2**: Powerful tools to help you succeed
-- **Feature 3**: Expert support when you need it most
+- **Ask in plain English, get structured data**: Skip brittle CSS selectors. Describe the fields you need and our Gemini‑powered extraction returns clean JSON/CSV—accurate, labeled, and ready for analysis.
+- **Adapts to any layout and changes**: Dynamic sites, shifting templates, infinite scroll—no problem. The model understands context, so your pipelines don’t break when pages update.
+- **From crawl to dataset—fully managed**: Schedule runs, monitor progress, and deliver via API or webhook. We handle browser automation, scaling, retries, and storage so you don’t have to.
+- **Built for compliance and peace of mind**: Respectful crawl behavior, rate limits, audit logs, and PII-safe workflows. Configure robots.txt awareness and data residency preferences.
+- **Developer-friendly API. No-code friendly UI.**: Trigger jobs via REST, stream results, and integrate with your stack. Prefer no code? Point to a URL, describe the fields, and export the dataset instantly.
+- **Production-grade reliability**: Headless browser rendering for JS-heavy sites, automatic retries, deduplication, and validation rules to keep your data consistent over time.
 
 ## 🎨 Theme
 
