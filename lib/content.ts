@@ -6,11 +6,13 @@ export interface LandingContent {
   title: string;
   subtitle: string;
   primaryCta: {
-    label: string;
+    text?: string;
+    label?: string;
     href: string;
   };
   secondaryCta?: {
-    label: string;
+    text?: string;
+    label?: string;
     href: string;
   };
   badges?: string[];
@@ -20,6 +22,7 @@ export interface LandingContent {
     title: string;
     description: string;
     icon: string;
+    customIcon?: string;
   }>;
   cta?: {
     title: string;
@@ -37,6 +40,73 @@ export interface LandingContent {
     ogImage?: string;
     twitterCard?: 'summary' | 'summary_large_image';
   };
+  // Enhanced content sections
+  socialProof?: {
+    testimonials?: Array<{
+      name: string;
+      role: string;
+      company: string;
+      quote: string;
+    }>;
+    stats?: Array<{
+      label: string;
+      value: string;
+    }>;
+    logos?: string[];
+  };
+  faqs?: Array<{
+    question: string;
+    answer: string;
+  }>;
+  about?: string;
+  contact?: {
+    email?: string;
+    phone?: string;
+    address?: string;
+  };
+  seo?: {
+    seo_title?: string;
+    meta_description?: string;
+    keywords?: string[];
+    og_title?: string;
+    og_description?: string;
+  };
+  design?: {
+    color_palette?: {
+      primary?: string;
+      secondary?: string;
+      accent?: string;
+      neutral?: string;
+    };
+    visual_mood?: {
+      overall_feeling?: string;
+      style_keywords?: string[];
+      target_emotion?: string;
+    };
+    typography_style?: string;
+    layout_approach?: string;
+    imagery_style?: string;
+    ui_elements?: string[];
+  };
+  customImages?: {
+    hero?: string;
+    feature_icons?: string[];
+    background_pattern?: string;
+    logo?: string;
+    social_media?: {
+      og_image?: string;
+      twitter_card?: string;
+    };
+  };
+  businessAnalysis?: {
+    business_type?: string;
+    target_audience?: string;
+    business_model?: string;
+    key_value_props?: string[];
+    competitive_advantages?: string[];
+    industry_keywords?: string[];
+  };
+  aiEnhanced?: boolean;
 }
 
 export async function getLandingContent(): Promise<LandingContent> {
