@@ -98,13 +98,21 @@ export default function Features({ content }: FeaturesProps) {
                   <div className="relative z-10">
                     {/* Icon */}
                     <div className={`inline-flex items-center justify-center w-16 h-16 rounded-xl mb-6 ${
-                      theme === 'dark-glossy' 
-                        ? 'bg-blue-500/20 text-blue-400 group-hover:bg-blue-500/30' 
+                      theme === 'dark-glossy'
+                        ? 'bg-blue-500/20 text-blue-400 group-hover:bg-blue-500/30'
                         : theme === 'light-clean'
                         ? 'bg-blue-100 text-blue-600 group-hover:bg-blue-200'
                         : 'bg-pink-500/20 text-pink-400 group-hover:bg-pink-500/30'
                     } transition-colors duration-300`}>
-                      <Icon className="w-8 h-8" />
+                      {feature.customIcon ? (
+                        <img
+                          src={feature.customIcon}
+                          alt={feature.title}
+                          className="w-8 h-8"
+                        />
+                      ) : (
+                        <Icon className="w-8 h-8" />
+                      )}
                     </div>
 
                     {/* Title */}
