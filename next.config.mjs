@@ -5,6 +5,12 @@ const nextConfig = {
   },
   images: {
     domains: ['images.unsplash.com', 'via.placeholder.com'],
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '*.public.blob.vercel-storage.com',
+      },
+    ],
     formats: ['image/avif', 'image/webp'],
   },
   async headers() {
