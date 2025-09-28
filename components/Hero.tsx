@@ -120,7 +120,7 @@ export default function Hero({ content }: HeroProps) {
                 'bg-gradient-to-r from-pink-500 to-violet-500 hover:from-pink-600 hover:to-violet-600 text-white shadow-lg shadow-pink-500/25'
               }`}
             >
-              {content.primaryCta.label}
+              {content.primaryCta.text || content.primaryCta.label}
               <ArrowRight className="ml-2 h-5 w-5" />
             </a>
             
@@ -133,13 +133,13 @@ export default function Hero({ content }: HeroProps) {
                   'glass text-white hover:bg-white/20'
                 }`}
               >
-                {content.secondaryCta.label}
+                {content.secondaryCta.text || content.secondaryCta.label}
               </a>
             )}
           </motion.div>
 
           {/* Hero Image */}
-          {content.heroImage && (
+          {(content.heroImage || content.customImages?.hero) && (
             <motion.div
               initial={{ opacity: 0, y: 50 }}
               animate={{ opacity: 1, y: 0 }}
@@ -152,7 +152,7 @@ export default function Hero({ content }: HeroProps) {
                 'shadow-gray-500/20'
               }`}>
                 <Image
-                  src={content.heroImage}
+                  src={content.customImages?.hero || content.heroImage || ''}
                   alt={content.title}
                   width={1200}
                   height={630}
